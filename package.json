@@ -4,6 +4,6 @@
 	"main": "expressServer.js",
 	"repository": "git://github.com:heftybyte/plugin-expressServer",
 	"plugin": {
-		"provides": ["expressServer"]
+		"provides": ["hefty-expressServer"]
 	}
 }
