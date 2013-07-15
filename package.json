@@ -1,5 +1,5 @@
 {
-	"name": "plugin-expressServer",
+	"name": "plugin-hefty-expressServer",
 	"version": "0.0.1",
 	"main": "expressServer.js",
 	"repository": "git://github.com:heftybyte/plugin-expressServer",
