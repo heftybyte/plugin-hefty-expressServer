@@ -1,7 +1,7 @@
 {
 	"name": "plugin-expressServer",
 	"version": "0.0.1",
-	"main": "httpService.js",
+	"main": "expressServer.js",
 	"repository": "git://github.com:heftybyte/plugin-expressServer",
 	"plugin": {
 		"provides": ["expressServer"]
